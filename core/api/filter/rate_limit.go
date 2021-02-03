@@ -18,7 +18,7 @@ package filter
 
 import (
 	"fmt"
-	"infini-framework/core/api/router"
+	"github.com/nixgnehc/infini-framework/core/api/router"
 	"io"
 	"net/http"
 	"sync"

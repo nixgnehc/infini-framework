@@ -17,7 +17,7 @@ limitations under the License.
 package discovery
 
 import (
-	pb "infini-framework/core/cluster/pb"
+	pb "github.com/nixgnehc/infini-framework/core/cluster/pb"
 
 	"context"
 )

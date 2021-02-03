@@ -17,8 +17,8 @@ package demo
 
 //
 //import (
-//	"infini-framework/core/config"
-//	"infini-framework/core/rpc"
+//	"github.com/nixgnehc/infini-framework/core/config"
+//	"github.com/nixgnehc/infini-framework/core/rpc"
 //)
 //
 //func (module RPCModule) Name() string {

@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 	log "github.com/cihub/seelog"
-	"infini-framework/core/elastic"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/elastic"
+	"github.com/nixgnehc/infini-framework/core/util"
 )
 
 func ClusterVersion(config *elastic.ElasticsearchConfig) (elastic.ClusterInformation, error) {

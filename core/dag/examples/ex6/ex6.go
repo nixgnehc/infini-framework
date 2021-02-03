@@ -1,7 +1,7 @@
 package main
 
-import "infini-framework/core/dag"
-import "infini-framework/core/dag/pipeline"
+import "github.com/nixgnehc/infini-framework/core/dag"
+import "github.com/nixgnehc/infini-framework/core/dag/pipeline"
 
 func main() {
 

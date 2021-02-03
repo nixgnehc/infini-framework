@@ -18,7 +18,7 @@ package kv
 
 import (
 	log "github.com/cihub/seelog"
-	"infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/errors"
 )
 
 type KVStore interface {

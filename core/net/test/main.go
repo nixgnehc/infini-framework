@@ -4,7 +4,7 @@ package main
 import (
 	"flag"
 	"github.com/j-keck/arping"
-	net1 "infini-framework/core/net"
+	net1 "github.com/nixgnehc/infini-framework/core/net"
 	"net"
 	"time"
 )

@@ -7,7 +7,7 @@ package util
 import (
 	"encoding/json"
 	"fmt"
-	"infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/errors"
 	"strings"
 )
 

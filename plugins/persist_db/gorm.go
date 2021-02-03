@@ -4,7 +4,7 @@ import (
 	"fmt"
 	log "github.com/cihub/seelog"
 	"github.com/jinzhu/gorm"
-	api "infini-framework/core/orm"
+	api "github.com/nixgnehc/infini-framework/core/orm"
 	"sync"
 	"time"
 )

@@ -1,10 +1,10 @@
 package elastic
 
 import (
-	"infini-framework/core/elastic"
-	"infini-framework/core/errors"
-	api "infini-framework/core/orm"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/elastic"
+	"github.com/nixgnehc/infini-framework/core/errors"
+	api "github.com/nixgnehc/infini-framework/core/orm"
+	"github.com/nixgnehc/infini-framework/core/util"
 )
 
 type ElasticORM struct {

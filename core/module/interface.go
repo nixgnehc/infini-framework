@@ -17,7 +17,7 @@ limitations under the License.
 package module
 
 import (
-	"infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/config"
 )
 
 // Module defines system level module structure

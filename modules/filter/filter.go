@@ -2,9 +2,9 @@ package filter
 
 import (
 	log "github.com/cihub/seelog"
-	. "infini-framework/core/config"
-	"infini-framework/core/filter"
-	"infini-framework/modules/filter/kv"
+	. "github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/filter"
+	"github.com/nixgnehc/infini-framework/modules/filter/kv"
 )
 
 type FilterModule struct {

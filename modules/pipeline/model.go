@@ -18,11 +18,11 @@ package pipeline
 
 import (
 	"encoding/json"
-	"infini-framework/core/errors"
-	"infini-framework/core/kv"
-	"infini-framework/core/orm"
-	"infini-framework/core/pipeline"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/kv"
+	"github.com/nixgnehc/infini-framework/core/orm"
+	"github.com/nixgnehc/infini-framework/core/pipeline"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"time"
 )
 

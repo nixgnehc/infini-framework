@@ -1,7 +1,7 @@
 package elastic
 
 import (
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/util"
 )
 
 type Indexes map[string]interface{}

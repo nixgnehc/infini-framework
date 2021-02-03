@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 	log "github.com/cihub/seelog"
-	"infini-framework/core/cluster/raft"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/cluster/raft"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"io"
 	"sync"
 )

@@ -18,11 +18,11 @@ package pipeline
 
 import (
 	log "github.com/cihub/seelog"
-	"infini-framework/core/global"
-	"infini-framework/core/pipeline"
-	"infini-framework/core/queue"
-	"infini-framework/core/stats"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/pipeline"
+	"github.com/nixgnehc/infini-framework/core/queue"
+	"github.com/nixgnehc/infini-framework/core/stats"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"runtime"
 	"sync"
 	"time"

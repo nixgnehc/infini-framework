@@ -17,7 +17,7 @@ limitations under the License.
 package cluster
 
 import (
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"net"
 )
 

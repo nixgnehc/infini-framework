@@ -17,16 +17,16 @@ limitations under the License.
 package modules
 
 import (
-	"infini-framework/core/module"
-	"infini-framework/modules/api"
-	"infini-framework/modules/boltdb"
-	"infini-framework/modules/cluster"
-	"infini-framework/modules/elastic"
-	"infini-framework/modules/filter"
-	"infini-framework/modules/pipeline"
-	"infini-framework/modules/queue"
-	"infini-framework/modules/stats"
-	"infini-framework/modules/ui"
+	"github.com/nixgnehc/infini-framework/core/module"
+	"github.com/nixgnehc/infini-framework/modules/api"
+	"github.com/nixgnehc/infini-framework/modules/boltdb"
+	"github.com/nixgnehc/infini-framework/modules/cluster"
+	"github.com/nixgnehc/infini-framework/modules/elastic"
+	"github.com/nixgnehc/infini-framework/modules/filter"
+	"github.com/nixgnehc/infini-framework/modules/pipeline"
+	"github.com/nixgnehc/infini-framework/modules/queue"
+	"github.com/nixgnehc/infini-framework/modules/stats"
+	"github.com/nixgnehc/infini-framework/modules/ui"
 )
 
 // RegisterSystemModule is where modules are registered

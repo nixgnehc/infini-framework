@@ -6,9 +6,9 @@ package websocket
 
 import (
 	"encoding/json"
-	"infini-framework/core/global"
-	"infini-framework/core/logger"
-	"infini-framework/core/stats"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/logger"
+	"github.com/nixgnehc/infini-framework/core/stats"
 	"strings"
 	"time"
 )

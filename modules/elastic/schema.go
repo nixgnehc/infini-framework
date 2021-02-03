@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"fmt"
 	log "github.com/cihub/seelog"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"strings"
 	"unicode"
 )

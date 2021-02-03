@@ -1,5 +1,5 @@
 package main
 
-import statsd "infini-framework/plugins/stats_statsd"
+import statsd "github.com/nixgnehc/infini-framework/plugins/stats_statsd"
 
 var PluginInstance = statsd.StatsDModule{}

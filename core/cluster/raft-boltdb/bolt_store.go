@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/boltdb/bolt"
-	"infini-framework/core/cluster/raft"
+	"github.com/nixgnehc/infini-framework/core/cluster/raft"
 )
 
 const (

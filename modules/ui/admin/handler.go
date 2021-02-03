@@ -1,11 +1,11 @@
 package admin
 
 import (
-	"infini-framework/core/api"
-	"infini-framework/core/api/router"
-	"infini-framework/modules/ui/admin/console"
-	"infini-framework/modules/ui/admin/dashboard"
-	"infini-framework/modules/ui/common"
+	"github.com/nixgnehc/infini-framework/core/api"
+	"github.com/nixgnehc/infini-framework/core/api/router"
+	"github.com/nixgnehc/infini-framework/modules/ui/admin/console"
+	"github.com/nixgnehc/infini-framework/modules/ui/admin/dashboard"
+	"github.com/nixgnehc/infini-framework/modules/ui/common"
 	"net/http"
 )
 

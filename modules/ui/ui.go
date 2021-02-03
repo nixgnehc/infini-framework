@@ -18,13 +18,13 @@ package ui
 
 import (
 	log "github.com/cihub/seelog"
-	uis "infini-framework/core/api"
-	. "infini-framework/core/config"
-	"infini-framework/core/logger"
-	"infini-framework/core/ui"
-	"infini-framework/core/ui/websocket"
-	"infini-framework/modules/ui/admin"
-	"infini-framework/modules/ui/public"
+	uis "github.com/nixgnehc/infini-framework/core/api"
+	. "github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/logger"
+	"github.com/nixgnehc/infini-framework/core/ui"
+	"github.com/nixgnehc/infini-framework/core/ui/websocket"
+	"github.com/nixgnehc/infini-framework/modules/ui/admin"
+	"github.com/nixgnehc/infini-framework/modules/ui/public"
 	_ "net/http/pprof"
 )
 

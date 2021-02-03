@@ -1,4 +1,4 @@
-module infini-framework
+module github.com/nixgnehc/infini-framework
 
 go 1.15
 

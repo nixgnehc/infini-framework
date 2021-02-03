@@ -2,7 +2,7 @@ package config
 
 import (
 	"fmt"
-	"infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/errors"
 	"strings"
 )
 

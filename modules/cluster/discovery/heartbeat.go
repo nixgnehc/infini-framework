@@ -18,7 +18,7 @@ package discovery
 
 import (
 	"context"
-	pb "infini-framework/core/cluster/pb"
+	pb "github.com/nixgnehc/infini-framework/core/cluster/pb"
 )
 
 type Discovery struct {

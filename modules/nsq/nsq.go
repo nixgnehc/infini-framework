@@ -3,7 +3,7 @@ package nsq
 import (
 	log "github.com/cihub/seelog"
 	"github.com/nsqio/nsq/nsqd"
-	"infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/config"
 )
 
 type NSQModule struct {

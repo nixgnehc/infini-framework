@@ -23,11 +23,11 @@ import (
 	"time"
 
 	"flag"
-	"infini-framework/core/env"
-	"infini-framework/core/global"
-	"infini-framework/core/rpc"
-	"infini-framework/core/util"
-	pb "infini-framework/modules/cluster/demo/helloworld"
+	"github.com/nixgnehc/infini-framework/core/env"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/rpc"
+	"github.com/nixgnehc/infini-framework/core/util"
+	pb "github.com/nixgnehc/infini-framework/modules/cluster/demo/helloworld"
 )
 
 const (

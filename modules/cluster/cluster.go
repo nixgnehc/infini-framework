@@ -1,13 +1,13 @@
 package cluster
 
 import (
-	"infini-framework/core/cluster"
-	pb "infini-framework/core/cluster/pb"
-	"infini-framework/core/config"
-	"infini-framework/core/global"
-	"infini-framework/core/rpc"
-	"infini-framework/modules/cluster/demo/server"
-	"infini-framework/modules/cluster/discovery"
+	"github.com/nixgnehc/infini-framework/core/cluster"
+	pb "github.com/nixgnehc/infini-framework/core/cluster/pb"
+	"github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/rpc"
+	"github.com/nixgnehc/infini-framework/modules/cluster/demo/server"
+	"github.com/nixgnehc/infini-framework/modules/cluster/discovery"
 )
 
 type ClusterModule struct {

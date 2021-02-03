@@ -19,7 +19,7 @@ package api
 import (
 	log "github.com/cihub/seelog"
 	"github.com/gorilla/sessions"
-	"infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/global"
 	"net/http"
 	"sync"
 )

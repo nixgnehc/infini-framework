@@ -20,7 +20,7 @@ import (
 	"bytes"
 	log "github.com/cihub/seelog"
 	"github.com/nsqio/go-nsq"
-	"infini-framework/core/pipeline"
+	"github.com/nixgnehc/infini-framework/core/pipeline"
 )
 
 type ReadNSQJoint struct {

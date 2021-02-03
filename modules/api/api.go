@@ -17,8 +17,8 @@ limitations under the License.
 package api
 
 import (
-	"infini-framework/core/api"
-	"infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/api"
+	"github.com/nixgnehc/infini-framework/core/config"
 )
 
 // Name return API

@@ -19,9 +19,9 @@ package pipeline
 import (
 	"fmt"
 	"github.com/stretchr/testify/assert"
-	"infini-framework/core/env"
-	"infini-framework/core/global"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/env"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"testing"
 	"time"
 )

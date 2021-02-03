@@ -18,7 +18,7 @@ package cluster
 
 import (
 	"fmt"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"testing"
 )
 

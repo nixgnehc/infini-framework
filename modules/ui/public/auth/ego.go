@@ -6,8 +6,8 @@ package auth
 import (
 	"fmt"
 	"html"
-	"infini-framework/core/util"
-	"infini-framework/modules/ui/common"
+	"github.com/nixgnehc/infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/modules/ui/common"
 	"io"
 	"net/http"
 )

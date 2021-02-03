@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/jinzhu/gorm"
 	_ "github.com/mattn/go-sqlite3"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"testing"
 	"time"
 )

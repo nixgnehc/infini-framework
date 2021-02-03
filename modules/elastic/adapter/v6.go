@@ -22,7 +22,7 @@ import (
 	"strings"
 
 	"errors"
-	"infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/global"
 )
 
 type ESAPIV6 struct {

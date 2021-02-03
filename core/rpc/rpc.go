@@ -29,8 +29,8 @@ import (
 	_ "google.golang.org/grpc/encoding/gzip" // Install the gzip compressor
 	"google.golang.org/grpc/keepalive"
 	"google.golang.org/grpc/reflection"
-	"infini-framework/core/config"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"net"
 	"time"
 )

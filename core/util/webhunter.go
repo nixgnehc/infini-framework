@@ -30,7 +30,7 @@ import (
 	"fmt"
 	log "github.com/cihub/seelog"
 	"golang.org/x/net/proxy"
-	"infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/errors"
 	"io"
 )
 
@@ -230,7 +230,7 @@ type Result struct {
 	Size       uint64
 }
 
-const userAgent = "Mozilla/5.0 (compatible; infinibyte/1.0; +http://infini-framework)"
+const userAgent = "Mozilla/5.0 (compatible; infinibyte/1.0; +http://github.com/nixgnehc/infini-framework)"
 
 const ContentTypeJson = "application/json;charset=utf-8"
 const ContentTypeXml = "application/xml;charset=utf-8"

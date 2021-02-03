@@ -25,9 +25,9 @@ import (
 	"fmt"
 	log "github.com/cihub/seelog"
 	"github.com/valyala/fasthttp"
-	"infini-framework/core/elastic"
-	"infini-framework/core/global"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/elastic"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"strings"
 )
 

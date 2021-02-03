@@ -23,10 +23,10 @@ import (
 	"github.com/emirpasic/gods/sets/hashset"
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
-	"infini-framework/core/api"
-	"infini-framework/core/api/router"
-	"infini-framework/core/util"
-	"infini-framework/modules/ui/public/auth"
+	"github.com/nixgnehc/infini-framework/core/api"
+	"github.com/nixgnehc/infini-framework/core/api/router"
+	"github.com/nixgnehc/infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/modules/ui/public/auth"
 	"net/http"
 )
 

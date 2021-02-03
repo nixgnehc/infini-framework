@@ -18,7 +18,7 @@ package filter
 
 import (
 	log "github.com/cihub/seelog"
-	"infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/errors"
 )
 
 // Filter is used to check if the object is in the filter or not

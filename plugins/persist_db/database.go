@@ -19,11 +19,11 @@ package persist_db
 import (
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	. "infini-framework/core/config"
-	"infini-framework/core/errors"
-	"infini-framework/core/orm"
-	"infini-framework/plugins/persist_db/mysql"
-	"infini-framework/plugins/persist_db/sqlite"
+	. "github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/orm"
+	"github.com/nixgnehc/infini-framework/plugins/persist_db/mysql"
+	"github.com/nixgnehc/infini-framework/plugins/persist_db/sqlite"
 )
 
 func (module DatabaseModule) Name() string {

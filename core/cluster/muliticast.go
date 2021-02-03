@@ -18,8 +18,8 @@ package cluster
 
 import (
 	log "github.com/cihub/seelog"
-	"infini-framework/core/config"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"net"
 )
 

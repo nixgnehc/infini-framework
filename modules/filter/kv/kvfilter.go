@@ -1,7 +1,7 @@
 package kv
 
 import (
-	"infini-framework/core/kv"
+	"github.com/nixgnehc/infini-framework/core/kv"
 	"sync"
 )
 

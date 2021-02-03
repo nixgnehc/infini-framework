@@ -3,9 +3,9 @@ package net
 import (
 	"fmt"
 	log "github.com/cihub/seelog"
-	"infini-framework/core/errors"
-	"infini-framework/core/global"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"os/exec"
 )
 

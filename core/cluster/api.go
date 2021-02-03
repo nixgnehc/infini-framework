@@ -19,9 +19,9 @@ package cluster
 import (
 	"encoding/json"
 	log "github.com/cihub/seelog"
-	"infini-framework/core/api"
-	"infini-framework/core/global"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/api"
+	"github.com/nixgnehc/infini-framework/core/global"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"net/http"
 )
 

@@ -1,6 +1,6 @@
 package main
 
-import "infini-framework/core/dag"
+import "github.com/nixgnehc/infini-framework/core/dag"
 
 func main() {
 

@@ -20,9 +20,9 @@ import (
 	"fmt"
 	log "github.com/cihub/seelog"
 	"github.com/ryanuber/go-glob"
-	"infini-framework/core/config"
-	"infini-framework/core/env"
-	"infini-framework/core/util"
+	"github.com/nixgnehc/infini-framework/core/config"
+	"github.com/nixgnehc/infini-framework/core/env"
+	"github.com/nixgnehc/infini-framework/core/util"
 	"strings"
 	"sync"
 )

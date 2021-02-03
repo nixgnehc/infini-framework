@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"infini-framework/core/dag/pool"
+	"github.com/nixgnehc/infini-framework/core/dag/pool"
 	"time"
 )
 

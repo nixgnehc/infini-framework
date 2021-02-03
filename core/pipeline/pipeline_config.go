@@ -17,8 +17,8 @@ limitations under the License.
 package pipeline
 
 import (
-	"infini-framework/core/env"
-	"infini-framework/core/errors"
+	"github.com/nixgnehc/infini-framework/core/env"
+	"github.com/nixgnehc/infini-framework/core/errors"
 	"time"
 )
 
